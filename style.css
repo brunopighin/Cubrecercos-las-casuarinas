@@ -855,3 +855,15 @@ ul { list-style: none; }
   .gallery-grid { grid-template-columns: 1fr; }
   .gallery-item.large { grid-column: span 1; }
 }
+.whatsapp-btn {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background: #25D366;
+  color: white;
+  font-size: 24px;
+  padding: 15px;
+  border-radius: 50%;
+  text-decoration: none;
+  box-shadow: 0 0 10px rgba(0,0,0,0.3);
+}
